@@ -1,0 +1,292 @@
+ <tbody>
+
+
+
+
+
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/1717.php"
+                                       title="Химический состав продукта: Гречневая каша рассыпчатая">Гречневая каша рассыпчатая</a>
+                                </td>
+                                <td class="uk-text-right">98,7 кКал</td>
+                                <td class="uk-text-right">3,6 г</td>
+                                <td class="uk-text-right">2,2 г</td>
+                                <td class="uk-text-right">17,1 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2625.php"
+                                       title="Химический состав продукта: Каша "Янтарная"(из пшена c яблоками)">Каша "Янтарная"(из пшена я яблоками)</a>
+                                </td>
+                                <td class="uk-text-right">138,9 кКал</td>
+                                <td class="uk-text-right">3,8 г</td>
+                                <td class="uk-text-right">6,5 г</td>
+                                <td class="uk-text-right">17,5 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2624.php"
+                                       title="Химический состав продукта: Каша боярская (из пшена с изюмом)">Каша боярская (из пшена с изюмом)</a>
+                                </td>
+                                <td class="uk-text-right">221,7 кКал</td>
+                                <td class="uk-text-right">4,8 г</td>
+                                <td class="uk-text-right">14,4 г</td>
+                                <td class="uk-text-right">19,5 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2622.php"
+                                       title="Химический состав продукта: Каша вязкая из пшена с тыквой">Каша вязкая из пшена с тыквой</a>
+                                </td>
+                                <td class="uk-text-right">158 кКал</td>
+                                <td class="uk-text-right">4,2 г</td>
+                                <td class="uk-text-right">8 г</td>
+                                <td class="uk-text-right">18,5 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2280.php"
+                                       title="Химический состав продукта: Каша гурьевская">Каша гурьевская</a>
+                                </td>
+                                <td class="uk-text-right">151,2 кКал</td>
+                                <td class="uk-text-right">4,4 г</td>
+                                <td class="uk-text-right">5,4 г</td>
+                                <td class="uk-text-right">22,6 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2571.php"
+                                       title="Химический состав продукта: Каша из тыквы с манкой">Каша из тыквы с манкой</a>
+                                </td>
+                                <td class="uk-text-right">161,5 кКал</td>
+                                <td class="uk-text-right">2,8 г</td>
+                                <td class="uk-text-right">8,4 г</td>
+                                <td class="uk-text-right">19,9 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/1846.php"
+                                       title="Химический состав продукта: Каша манная коричневая">Каша манная коричневая</a>
+                                </td>
+                                <td class="uk-text-right">162,1 кКал</td>
+                                <td class="uk-text-right">5,3 г</td>
+                                <td class="uk-text-right">6 г</td>
+                                <td class="uk-text-right">23,2 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2121.php"
+                                       title="Химический состав продукта: Каша пшенная с сушеными сливами">Каша пшенная с сушеными сливами</a>
+                                </td>
+                                <td class="uk-text-right">121,3 кКал</td>
+                                <td class="uk-text-right">2,4 г</td>
+                                <td class="uk-text-right">2,9 г</td>
+                                <td class="uk-text-right">22,7 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/1853.php"
+                                       title="Химический состав продукта: Каша рисовая с какао">Каша рисовая с какао</a>
+                                </td>
+                                <td class="uk-text-right">146,2 кКал</td>
+                                <td class="uk-text-right">4,1 г</td>
+                                <td class="uk-text-right">6 г</td>
+                                <td class="uk-text-right">20,3 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2117.php"
+                                       title="Химический состав продукта: Манная каша на клюквенном соке">Манная каша на клюквенном соке</a>
+                                </td>
+                                <td class="uk-text-right">112,7 кКал</td>
+                                <td class="uk-text-right">1,9 г</td>
+                                <td class="uk-text-right">4,6 г</td>
+                                <td class="uk-text-right">17 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/1797.php"
+                                       title="Химический состав продукта: Манная каша с морковью">Манная каша с морковью</a>
+                                </td>
+                                <td class="uk-text-right">97,3 кКал</td>
+                                <td class="uk-text-right">2,7 г</td>
+                                <td class="uk-text-right">5,6 г</td>
+                                <td class="uk-text-right">9,7 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/1837.php"
+                                       title="Химический состав продукта: Мучная каша">Мучная каша</a>
+                                </td>
+                                <td class="uk-text-right">95,3 кКал</td>
+                                <td class="uk-text-right">3,4 г</td>
+                                <td class="uk-text-right">4,9 г</td>
+                                <td class="uk-text-right">10,2 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2120.php"
+                                       title="Химический состав продукта: Рисовая каша с черносливом">Рисовая каша с черносливом</a>
+                                </td>
+                                <td class="uk-text-right">128,5 кКал</td>
+                                <td class="uk-text-right">1,9 г</td>
+                                <td class="uk-text-right">2,4 г</td>
+                                <td class="uk-text-right">26,4 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2119.php"
+                                       title="Химический состав продукта: Рисовая с абрикосами по-венгерски">Рисовая с абрикосами по-венгерски</a>
+                                </td>
+                                <td class="uk-text-right">119,7 кКал</td>
+                                <td class="uk-text-right">2,6 г</td>
+                                <td class="uk-text-right">0,3 г</td>
+                                <td class="uk-text-right">28,5 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/1758.php"
+                                       title="Химический состав продукта: Яблочно-манная каша">Яблочно-манная каша</a>
+                                </td>
+                                <td class="uk-text-right">128,4 кКал</td>
+                                <td class="uk-text-right">1,9 г</td>
+                                <td class="uk-text-right">4,3 г</td>
+                                <td class="uk-text-right">22 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2643.php"
+                                       title="Химический состав продукта: Яичная каша (натуральная)">Яичная каша (натуральная)</a>
+                                </td>
+                                <td class="uk-text-right">180,3 кКал</td>
+                                <td class="uk-text-right">10,3 г</td>
+                                <td class="uk-text-right">11 г</td>
+                                <td class="uk-text-right">10,8 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/2644.php"
+                                       title="Химический состав продукта: Яичная каша с овощами или грибами">Яичная каша с овощами или грибами</a>
+                                </td>
+                                <td class="uk-text-right">261 кКал</td>
+                                <td class="uk-text-right">15,9 г</td>
+                                <td class="uk-text-right">13,2 г</td>
+                                <td class="uk-text-right">20,9 г</td>
+                            </tr>
+
+
+
+
+
+
+                                                    <tr>
+                                <td><a href="/base_of_food/sostav/1773.php"
+                                       title="Химический состав продукта: Ячневая каша с картофелем">Ячневая каша с картофелем</a>
+                                </td>
+                                <td class="uk-text-right">48,6 кКал</td>
+                                <td class="uk-text-right">1,8 г</td>
+                                <td class="uk-text-right">1 г</td>
+                                <td class="uk-text-right">8,7 г</td>
+                            </tr>
+
+
+
+                                                            </tbody>
+        </table>
+
+
+
+
+
+                </div>
+
+
+            </div>
+
+        </div>

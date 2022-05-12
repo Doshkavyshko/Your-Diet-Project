@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Your_Diet_Project.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Your_Diet_Project.dir/objects.a @CMakeFiles\Your_Diet_Project.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Your_Diet_Project.dir/objects.a -Wl,--no-whole-archive -o Your_Diet_Project.exe -Wl,--out-implib,libYour_Diet_Project.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Your_Diet_Project.dir\linklibs.rsp
