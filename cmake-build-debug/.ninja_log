@@ -1,0 +1,7 @@
+# ninja log v5
+0	453	1652458612308248415	parser/CMakeFiles/parser.dir/src/data.cpp.o	ca8e71a979d6b577
+1	1172	1652459023124452123	parser/parser	c1b6cb0b5fdf7621
+0	1929	1652459754227217000	parser/CMakeFiles/parser.dir/src/data.cpp.o	ca8e71a979d6b577
+1929	3226	1652459755547194550	parser/parser	c1b6cb0b5fdf7621
+1	60	1652459896945191710	parser/CMakeFiles/parser.dir/src/data.cpp.o	ca8e71a979d6b577
+60	164	1652459897045190550	parser/parser	c1b6cb0b5fdf7621

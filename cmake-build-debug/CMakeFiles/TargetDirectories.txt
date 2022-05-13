@@ -1,0 +1,5 @@
+/home/denis/Your-Diet-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/denis/Your-Diet-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/denis/Your-Diet-Project/cmake-build-debug/parser/CMakeFiles/parser.dir
+/home/denis/Your-Diet-Project/cmake-build-debug/parser/CMakeFiles/edit_cache.dir
+/home/denis/Your-Diet-Project/cmake-build-debug/parser/CMakeFiles/rebuild_cache.dir
