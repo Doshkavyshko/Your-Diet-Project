@@ -94,7 +94,7 @@ build parser/CMakeFiles/parser.dir/src/data.cpp.o: CXX_COMPILER__parser_Debug /h
 
 build parser/parser: CXX_EXECUTABLE_LINKER__parser_Debug parser/CMakeFiles/parser.dir/src/data.cpp.o
   FLAGS = -g
-  LINK_LIBRARIES = -lcurl
+  LINK_LIBRARIES = -lcurl  -lhtmlcxx
   OBJECT_DIR = parser/CMakeFiles/parser.dir
   POST_BUILD = :
   PRE_LINK = :

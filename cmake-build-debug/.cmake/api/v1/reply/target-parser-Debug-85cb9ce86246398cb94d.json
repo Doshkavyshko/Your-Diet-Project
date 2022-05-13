@@ -80,6 +80,11 @@
 				"backtrace" : 2,
 				"fragment" : "-lcurl",
 				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "-lhtmlcxx",
+				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
